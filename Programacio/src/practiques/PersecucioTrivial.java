@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author curri
+ * @author Xesac Tomás - TIC
  */
 public class PersecucioTrivial {
 
